@@ -1,3 +1,11 @@
+Topological sort is typically used in graph algorithms. 
+It is a technique used to order the vertices of a directed acyclic graph (DAG) 
+in such a way that for every directed edge (u, v), vertex u comes before vertex v in the ordering.
+
+In a graph, topological sort provides a linear ordering of the vertices that respects the partial order defined by the directed edges. 
+It is commonly used in various applications such as task scheduling, dependency resolution, and determining a valid sequence of events or actions.
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
