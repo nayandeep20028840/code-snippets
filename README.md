@@ -1,2 +1,2 @@
-# CP-Templates
+# code-snippets
  
