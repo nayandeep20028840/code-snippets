@@ -1,5 +1,5 @@
 {
-	"kashi.": {
+	"main1": {
 		"prefix": "main1",
 		"body": [
 			"#include<bits/stdc++.h>",
@@ -117,11 +117,8 @@
 			"    return 0;",
 			"}",
 			"",
-			"",
-			"",
-			"",
 			""
 		],
-		"description": "kashi."
+		"description": "main1"
 	}
 }

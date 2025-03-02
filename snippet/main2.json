@@ -1,5 +1,5 @@
 {
-	"kashi..": {
+	"main2": {
 		"prefix": "main2",
 		"body": [
 			"#include<bits/stdc++.h>",
@@ -117,13 +117,9 @@
 			"    }",
 			"    return 0;",
 			"}",
-			"",
-			"",
-			"",
-			" // Don't overthink and try to prove your idea. ",
-			"// Think twice, code once. // rab ne bana di jodi "
+			""
 		],
-		"description": "kashi.."
+		"description": "main2"
 	}
 }
 
